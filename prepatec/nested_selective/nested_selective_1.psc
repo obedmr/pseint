@@ -32,7 +32,11 @@ Algoritmo addition_or_subtraction
 			Imprimir "Numbers: ", num1, " + ", num2
 			Total = num1 + num2
 		FinSi
-	Sino 
+	Sino
+		Escribir "Num1: "
+		Leer num1
+		Escribir "Num2: "
+		Leer num2
 		Total = num1 - num2
 	FinSi
 	
